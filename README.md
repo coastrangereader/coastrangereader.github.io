@@ -1,2 +1,2 @@
 # coastrangereader.github.io
-Good news for the postmodern man
+To interest the mind and enrich the soul
