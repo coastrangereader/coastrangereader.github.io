@@ -1,3 +1,3 @@
-# My blog
+# Coast Range Reader
 
-[Jekyll]((http://jekyllrb.com/)) is easy. Build: `jekyll build` and serve: `jekyll serve`
+This publication uses [Jekyll]((http://jekyllrb.com/)). It's a software package for building blogs. To build (locally): `jekyll build` and serve : `jekyll serve`
