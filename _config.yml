@@ -1,0 +1,19 @@
+# Site settings
+title: The Coast Range Reader
+email: 
+description: "To interest the mind and enrich the soul."
+baseurl: ""
+url: "http://coastrangereader.github.io"
+github_username: coastrangereader
+plugins:
+  - jekyll-feed
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
